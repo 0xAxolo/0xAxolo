@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @0xAxolo
+- 👀 I'm interested in blockchain development
+- 🌱 I’m currently learning solidity audit
+- 📫 You can reach me on TG : @Axolo0x
